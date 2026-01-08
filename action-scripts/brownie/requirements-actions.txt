@@ -1,3 +1,4 @@
 bal_addresses @ git+https://github.com/BalancerMaxis/bal_addresses.git@0.9.15
 prettytable
 safe-eth-py
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
