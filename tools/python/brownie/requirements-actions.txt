@@ -5,3 +5,4 @@ dotmap
 #regex==2021.09.30 ## Fixes some issue with mac M1 and brownie 1.17
 
 # dev; testing, linting and committing
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
